@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Title of your feature" skipped="0" tests="1" time="25.44" timestamp="2019-11-24T12:19:24.918-05:00[America/Bogota]"><testcase name="Verificar solicitud de clave con usuario registrado"><failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="junit.framework.AssertionFailedError">expected:&lt;true&gt; but was:&lt;false&gt;</failure><system-err>expected:&lt;true&gt; but was:&lt;false&gt;&#13;
+junit.framework.Assert.fail(Assert.java:57)&#13;
+junit.framework.Assert.failNotEquals(Assert.java:329)&#13;
+junit.framework.Assert.assertEquals(Assert.java:78)&#13;
+junit.framework.Assert.assertEquals(Assert.java:174)&#13;
+junit.framework.Assert.assertEquals(Assert.java:181)&#13;
+tcs.semillero.diego.proyMercadoLibre.steps.StepSesion.verificarQueSeSoliciteClave(StepSesion.java:87)&#13;
+tcs.semillero.diego.proyMercadoLibre.definitions.DefinitionSesion.verificarQueSeSoliciteClave(DefinitionSesion.java:70)&#13;
+✽.verificar que se solicite clave(src/test/resources/features/login.feature:12)&#13;
+</system-err></testcase></testsuite>
