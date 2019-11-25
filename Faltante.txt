@@ -1,0 +1,23 @@
+DATOS INICIO SESIÓN:
+
+aulaambientalentrenubes@gmail.com
+Bogota2019*
+
+////////////////////////////////////////////////
+
+FALTA:
+
+1. Corregir CP004 - Emergente.
+2. Probar CP - Login
+
+3. Evidencia manual.
+4. Evidencia Serenity.
+5. Excel *Opcional.
+
+6. Automatizacion APK.
+7. Documento APK.
+
+8. Documentación Riesgos Mercado libre.
+
+9. Interfaz gráfica.
+
